@@ -1,0 +1,27 @@
+{
+  "cliente": "Sagrado Arco Real",
+  "chave": "arcoreal",
+  "arroba": "@arcorealoficial",
+  "atualizado": "2026-10-01 22:06",
+  "publicados": 33,
+  "fila": 21,
+  "adiante": 20,
+  "aprovados": 20,
+  "proximo": {
+    "id": "n05",
+    "quando": "2026-10-03 08:00",
+    "tipo": "foto",
+    "aprovado": true,
+    "futuro": true
+  },
+  "atrasados": [
+    "n17"
+  ],
+  "problemas": [],
+  "meta": {
+    "ok": true,
+    "username": "arcorealoficial",
+    "seguidores": 4719,
+    "posts_no_ar": 85
+  }
+}
