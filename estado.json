@@ -2,7 +2,7 @@
   "cliente": "Sagrado Arco Real",
   "chave": "arcoreal",
   "arroba": "@arcorealoficial",
-  "atualizado": "2026-10-03 20:17",
+  "atualizado": "2026-10-03 23:49",
   "publicados": 34,
   "fila": 20,
   "adiante": 19,
@@ -20,14 +20,14 @@
   "problemas": [
     {
       "post": "n17#perdeu",
-      "vezes": 8,
+      "vezes": 9,
       "erro": "janela fechada"
     }
   ],
   "meta": {
     "ok": true,
     "username": "arcorealoficial",
-    "seguidores": 4717,
+    "seguidores": 4718,
     "posts_no_ar": 86
   }
 }
