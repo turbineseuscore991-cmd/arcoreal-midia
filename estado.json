@@ -2,14 +2,14 @@
   "cliente": "Sagrado Arco Real",
   "chave": "arcoreal",
   "arroba": "@arcorealoficial",
-  "atualizado": "2026-10-20 09:41",
-  "publicados": 41,
-  "fila": 13,
-  "adiante": 13,
-  "aprovados": 13,
+  "atualizado": "2026-10-20 12:51",
+  "publicados": 42,
+  "fila": 12,
+  "adiante": 12,
+  "aprovados": 12,
   "proximo": {
-    "id": "n22",
-    "quando": "2026-10-20 11:00",
+    "id": "n23",
+    "quando": "2026-10-22 17:00",
     "tipo": "card",
     "aprovado": true,
     "futuro": true
@@ -20,6 +20,6 @@
     "ok": true,
     "username": "arcorealoficial",
     "seguidores": 4730,
-    "posts_no_ar": 91
+    "posts_no_ar": 92
   }
 }
